@@ -4,7 +4,7 @@ This project uses an LSTM neural network to predict future stock prices and visu
 
 ## User Interface
 
-![Stock Forecast UI](UI_preview.png)
+![Stock Forecast UI](ui_preview.png)
 
 ## 🚀 Features
 - Predicts future stock prices using LSTM
@@ -13,6 +13,8 @@ This project uses an LSTM neural network to predict future stock prices and visu
 - User input: Stock Ticker, date range, forecast period
 
 ## Example Output
+
+![Stock Forecast output](example_output.png)
 
 ## 📦 Dependencies
 See `requirements.txt`
